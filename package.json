@@ -1,0 +1,22 @@
+{
+  "name": "servicioprueba",
+  "version": "1.0.0",
+  "description": "pruebas",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arturo-1/servicioPrueba.git"
+  },
+  "author": "Arturo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arturo-1/servicioPrueba/issues"
+  },
+  "homepage": "https://github.com/Arturo-1/servicioPrueba#readme",
+  "dependencies": {
+    "serverless-offline": "^6.8.0"
+  }
+}
